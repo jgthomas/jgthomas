@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, Im James
+
+Former academic turned software engineer, you might say I'm a 'late developer'...
 
 <!--
 **jgthomas/jgthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,12 +22,15 @@ Here are some ideas to get you started:
 [<img align="left" alt="jgthomas.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jgthomas-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
+
+### Languages
+
+---
 
 <details>
   <summary>:zap: Github Stats</summary>
-
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jgthomas&show_icons=true&hide_border=true" />
-
 </details>
 
 [website]: https://jgthomas.github.io
