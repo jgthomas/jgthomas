@@ -19,6 +19,7 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 
 <br />
+<br />
 
 ### Tools :thumbsup:
 
