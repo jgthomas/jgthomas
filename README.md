@@ -8,8 +8,6 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 <br />
 <br />
 
-### Code tools :wrench: :hammer:
-
 <img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
@@ -24,7 +22,7 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 <img align="left" alt="Intellij" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 
-<br />#
+<br />
 <br />
 
 <a href="https://github.com/jgthomas/github-readme-stats">
