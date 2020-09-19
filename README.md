@@ -9,7 +9,7 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 
 ---
 
-### :wrench: :hammer:
+### Code tools :wrench: :hammer:
 
 <img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
