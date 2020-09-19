@@ -1,6 +1,8 @@
 ### Hi there, I'm James
 
-Former academic turned software engineer, you might say I'm a 'late developer'...welcome to my <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+Former academic turned software engineer, you might say I'm a 'late developer'...welcome to my github
+
+#### Me online
 
 [<img align="left" alt="jgthomas.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jgthomas-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -23,11 +25,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgthomas&layout=compact)](https://github.com/jgthomas/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgthomas)](https://github.com/jgthomas/github-readme-stats)-->
-
----
 
 <details>
   <summary>:zap: Github Stats</summary>
