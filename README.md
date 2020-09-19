@@ -6,8 +6,7 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 [<img align="left" alt="jgthomas-code | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
-
----
+<br />
 
 ### Code tools :wrench: :hammer:
 
@@ -25,9 +24,8 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 <img align="left" alt="Intellij" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 
+<br />#
 <br />
-
----
 
 <a href="https://github.com/jgthomas/github-readme-stats">
   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=jgthomas&show_icons=true&hide_border=true&count_private=true" />
