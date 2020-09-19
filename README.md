@@ -26,11 +26,18 @@ Here are some ideas to get you started:
 
 ### Languages
 
+### Tools
 ---
 
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jgthomas&show_icons=true&hide_border=true" />
+</details>
+
+
+<details>
+  <summary>:zap: Top Languages</summary>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgthomas)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [website]: https://jgthomas.github.io
