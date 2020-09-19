@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="jgthomas.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jgthomas-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
 <details>
   <summary>:zap: Github Stats</summary>
 
