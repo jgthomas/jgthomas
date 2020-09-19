@@ -8,6 +8,8 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 <br />
 <br />
 
+### Tools
+
 <img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
