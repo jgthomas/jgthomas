@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgthomas&layout=compact)](https://github.com/jgthomas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgthomas&layout=compact&langs_count=6)](https://github.com/jgthomas/github-readme-stats)
 
 <details>
   <summary>:zap: Github Stats</summary>
