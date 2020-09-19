@@ -1,6 +1,6 @@
 ### Hi there, I'm James
 
-Former academic turned software engineer, you might say I'm a 'late developer'...welcome to my github
+Former academic turned software engineer, you might say I'm a 'late developer'...welcome to my github!
 
 #### Me online
 
@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgthomas&layout=compact)](https://github.com/jgthomas/github-readme-stats)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgthomas)](https://github.com/jgthomas/github-readme-stats)-->
 
 <details>
   <summary>:zap: Github Stats</summary>
