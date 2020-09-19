@@ -4,7 +4,7 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 
 Welcome to my github! This is the home of all my personal projects and ongoing learning and exploration into the world of programming, computer science, and the process of software development.
 
-<br />
+### My companions on this journey
 
 <img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
