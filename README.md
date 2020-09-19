@@ -1,9 +1,8 @@
 ## Hi there, I'm James [<img align="right" alt="jgthomas.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [<img align="right" alt="jgthomas-code | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
-Former academic turned software engineer, you might say I'm a 'late developer'...welcome to my github!
+Former academic turned software engineer, you might say I'm a 'late developer'...
 
-<br />
-<br />
+Welcome to my github! This is the home of all my personal projects and ongoing learning and exploration into the world of programming, computer science, and the process of software development.
 
 ### Tools
 
