@@ -1,6 +1,6 @@
-### Hi there, Im James
+### Hi there, I'm James
 
-Former academic turned software engineer, you might say I'm a 'late developer'...
+Former academic turned software engineer, you might say I'm a 'late developer'...welcome to my <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 [<img align="left" alt="jgthomas.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jgthomas-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
