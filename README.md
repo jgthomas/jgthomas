@@ -9,7 +9,7 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 
 ---
 
-### Languages :thumbsup:
+### Languages :heavy_plus_sign: Frameworks :heavy_plus_sign: Tools
 
 <img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -17,6 +17,8 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
+:heavy_plus_sign:
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 
 <br />
 <br />
