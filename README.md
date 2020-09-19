@@ -8,6 +8,7 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 [<img align="left" alt="jgthomas-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
 ### Languages :thumbsup:
 
@@ -16,6 +17,7 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
+<br />
 <br />
 
 ### Tools :thumbsup:
