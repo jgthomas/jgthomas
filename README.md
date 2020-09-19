@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Me Online
 
 [<img align="left" alt="jgthomas.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jgthomas-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://jgthomas.github.io
-[linkedin]: https://www.linkedin.com/in/jgthomas-code/
+[linkedin]: https://www.linkedin.com/in/jgthomas-code
