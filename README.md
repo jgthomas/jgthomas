@@ -20,6 +20,8 @@ Welcome to my github! This is the home of all my personal projects and ongoing l
 <img align="left" alt="Intellij" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 
+<img align="left" alt="Slack" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" />
+
 <br />
 <br />
 
