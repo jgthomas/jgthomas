@@ -23,6 +23,8 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 ### Tools :thumbsup:
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />
+<img align="left" alt="Intellij" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
 
 <br />
 
