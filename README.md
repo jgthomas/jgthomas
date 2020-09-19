@@ -2,7 +2,7 @@
 
 Former academic turned software engineer, you might say I'm a 'late developer'...
 
-Welcome to my github! This is the home of all my personal projects and ongoing learning and exploration into the world of programming, computer science, and the process of software development.
+Welcome to my github! This is the home of all my personal projects and ongoing exploration into the world of programming, computer science, and the process of software development.
 
 ### My companions on this journey
 
