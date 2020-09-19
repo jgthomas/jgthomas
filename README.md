@@ -1,15 +1,15 @@
-### Hi there, I'm James
+## Hi there, I'm James
 
 Former academic turned software engineer, you might say I'm a 'late developer'...welcome to my github!
 
-#### Me online
+### Online
 
 [<img align="left" alt="jgthomas.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jgthomas-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-#### Languages :thumbsup:
+### Languages :thumbsup:
 
 <img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -18,7 +18,7 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 
 <br />
 
-#### Tools :thumbsup:
+### Tools :thumbsup:
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
