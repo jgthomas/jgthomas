@@ -2,12 +2,9 @@
 
 Former academic turned software engineer, you might say I'm a 'late developer'...welcome to my github!
 
-### Online
-
 [<img align="left" alt="jgthomas.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jgthomas-code | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
-<br />
 <br />
 
 ### Languages :thumbsup:
