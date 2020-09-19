@@ -7,6 +7,8 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 
 <br />
 
+---
+
 ### Languages :thumbsup:
 
 <img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" />
@@ -16,7 +18,6 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 
-<br />
 <br />
 
 ### Tools :thumbsup:
