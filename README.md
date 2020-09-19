@@ -18,6 +18,7 @@ Welcome to my github! This is the home of all my personal projects and ongoing l
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />
 <img align="left" alt="Intellij" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
+<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" />
 <img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 
 <img align="left" alt="Slack" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" />
