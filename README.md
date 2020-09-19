@@ -1,9 +1,6 @@
-## Hi there, I'm James
+## Hi there, I'm James [<img align="right" alt="jgthomas.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [<img align="right" alt="jgthomas-code | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 Former academic turned software engineer, you might say I'm a 'late developer'...welcome to my github!
-
-[<img align="left" alt="jgthomas.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jgthomas-code | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
 <br />
@@ -25,7 +22,8 @@ Former academic turned software engineer, you might say I'm a 'late developer'..
 <img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 
 <br />
-<br />
+
+---
 
 <a href="https://github.com/jgthomas/github-readme-stats">
   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=jgthomas&show_icons=true&hide_border=true&count_private=true" />
