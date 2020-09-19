@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Me on GitHub
+---
 
 <a href="https://github.com/jgthomas/github-readme-stats">
   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=jgthomas&show_icons=true&hide_border=true" />
