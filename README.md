@@ -34,11 +34,8 @@ Here are some ideas to get you started:
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jgthomas&show_icons=true&hide_border=true" />
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgthomas)](https://github.com/jgthomas/github-readme-stats)
 
-<details>
-  <summary>:zap: Top Languages</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgthomas)](https://github.com/jgthomas/github-readme-stats)
-</details>
 
 [website]: https://jgthomas.github.io
 [linkedin]: https://www.linkedin.com/in/jgthomas-code
