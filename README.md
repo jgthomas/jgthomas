@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Top Languages</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgthomas)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgthomas)](https://github.com/jgthomas/github-readme-stats)
 </details>
 
 [website]: https://jgthomas.github.io
