@@ -29,10 +29,10 @@ Welcome to my github! This is the home of all my personal projects, and my ongoi
 
 ---
 
-<a href="https://github.com/jgthomas/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=jgthomas&show_icons=true&hide_border=true&count_private=true" />
 </a>
-<a href="https://github.com/jgthomas/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgthomas&layout=compact&langs_count=8&hide_border=true" />
 </a>
 
